@@ -1,2 +1,2 @@
-# Sting-Engine
-The main repo for the Sting Engine.
+# MMXCreator
+The main repo for MMXCreator.
